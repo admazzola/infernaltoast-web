@@ -1,0 +1,11 @@
+[
+  {"name":"Token Mining Pool","icon":"/images/punk1164.jpg","thumbnail":"","description":"", "hyperlink":"http://tokenminingpool.com"},
+  {"name":"The Guild","icon":"/images/pickaxe.png","thumbnail":"","description":"", "hyperlink":"https://guild.0xbtc.io"} ,
+  {"name":"Art Gallery","icon":"/images/cv-logo-96.png","thumbnail":"","description":"", "hyperlink":"https://gallery.infernaltoast.com"} ,
+  {"name":"Cryptofunks LP","icon":"/images/musicicon.png","thumbnail":"","description":"", "hyperlink":"https://cryptofunks.infernaltoast.com"},
+  {"name":"Medium Blog","icon":"/images/medium.png","thumbnail":"","description":"", "hyperlink":"https://infernaltoast.medium.com/"},  
+  {"name":"Apex MFer Youtube","icon":"/images/apexmfer.png","thumbnail":"","description":"", "hyperlink":"https://apexmfer.com"}  ,
+  {"name":"0xBitcoin","icon":"/images/0xbtc.png","thumbnail":"","description":"", "hyperlink":"https://0xbitcoin.org"},
+  {"name":"Infernal's Github","icon":"/images/github.png","thumbnail":"","description":"", "hyperlink":"https://github.com/admazzola"}  ,
+  {"name":"Open Source MFers","icon":"/images/cutefly.png","thumbnail":"","description":"", "hyperlink":"https://github.com/orgs/OpenSourceMfers/projects?type=beta"}  
+]
